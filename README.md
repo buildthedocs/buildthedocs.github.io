@@ -1,7 +1,7 @@
 <p align="center">
   <a title="Website Status" href="https://buildthedocs.github.io"><img alt="Website" src="https://img.shields.io/website?longCache=true&style=flat-square&label=buildthedocs.github.io&url=https%3A%2F%2Fbuildthedocs.github.io%2F"></a><!--
   -->
-  <a title="'site' workflow Status" href="https://github.com/buildthedocs/buildthedocs.github.io/actions?query=workflow%3Asite"><img alt="'site' workflow Status" src="https://img.shields.io/github/workflow/status/buildthedocs/buildthedocs.github.io/site?longCache=true&style=flat-square&label=site"></a><!--
+  <a title="'site' workflow Status" href="https://github.com/buildthedocs/buildthedocs.github.io/actions/workflows/site.yml"><img alt="'site' workflow Status" src="https://img.shields.io/github/actions/workflow/status/buildthedocs/buildthedocs.github.io/site.yml?branch=sources&longCache=true&style=flat-square&label=site"></a><!--
   -->
 </p>
 
